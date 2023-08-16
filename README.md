@@ -8,5 +8,5 @@
   - also to pass that project I've had to create 30 queries covering different categories (in SQL and relational algebra).
 
 
-(Complite work)[]
+(Complite work)[https://github.com/zhadavla/students-dormitory-database/blob/main/dbsSem.pdf]
 
